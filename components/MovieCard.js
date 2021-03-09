@@ -11,8 +11,6 @@ export default function MovieCard({ movie }) {
   )
 }
 
-
-
 const styles = StyleSheet.create({
   card: {
     width: '50%',

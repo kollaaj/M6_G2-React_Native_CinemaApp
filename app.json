@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native",
-    "slug": "react-native",
+    "name": "Module 6 React Native Cinema app",
+    "slug": "module-6-react-native-cinema-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/poppIcon.png",
@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/kollaaj/Module_6_React_Native_CinemaApp"
   }
 }
