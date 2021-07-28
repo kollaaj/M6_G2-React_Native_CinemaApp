@@ -30,7 +30,7 @@ export default function Homescreen({ navigation }) {
         setToken(data.token);
       } catch (err) {
         // could not get API token
-        setErrorMessage('Something went wrong! Try again later.');
+        setErrorMessage('Something went wrong! please try again later.');
       }
     }
 
@@ -54,7 +54,7 @@ export default function Homescreen({ navigation }) {
         setMovies(data);
       } catch (err) {
         // could not get movies
-        setErrorMessage('Something went wrong! Try again later.')
+        setErrorMessage('Something went wrong! please try again later.')
       }
     }
 
