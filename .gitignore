@@ -12,4 +12,8 @@ web-build/
 # macOS
 .DS_Store
 
+# local env files
 .env
+
+# vscode
+settings.json
